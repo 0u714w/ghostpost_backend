@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 django-webpack-loader = "*"
 django = "*"
+djangorestframework = "*"
+django-cors-headers = "*"
 
 [requires]
 python_version = "2.7"
